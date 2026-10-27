@@ -1,2 +1,2 @@
 # tech-lab-configs
-Personal lab notes, configuration files, and setup guides for networking, sysadmin, and security tools.
+Personal lab notes, configuration files, and setup guides for networking, sysadmin, and security tools and basic software files
